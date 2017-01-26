@@ -1,0 +1,6 @@
+C:\Users\micbo\OneDrive\Uddannelse\VisualStudio\SHOP-master\SHOP\bin\Debug\SHOP.exe.config
+C:\Users\micbo\OneDrive\Uddannelse\VisualStudio\SHOP-master\SHOP\bin\Debug\SHOP.exe
+C:\Users\micbo\OneDrive\Uddannelse\VisualStudio\SHOP-master\SHOP\bin\Debug\SHOP.pdb
+C:\Users\micbo\OneDrive\Uddannelse\VisualStudio\SHOP-master\SHOP\obj\Debug\SHOP.csprojResolveAssemblyReference.cache
+C:\Users\micbo\OneDrive\Uddannelse\VisualStudio\SHOP-master\SHOP\obj\Debug\SHOP.exe
+C:\Users\micbo\OneDrive\Uddannelse\VisualStudio\SHOP-master\SHOP\obj\Debug\SHOP.pdb
